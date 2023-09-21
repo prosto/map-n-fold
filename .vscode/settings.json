@@ -1,4 +1,5 @@
 {
   "editor.formatOnSave": true,
-  "editor.formatOnType": false
+  "editor.formatOnType": false,
+  "cSpell.words": ["stleguides"]
 }
